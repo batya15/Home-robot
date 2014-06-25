@@ -1,0 +1,12 @@
+{
+    "name": "piRobot",
+    "description": "piRobot",
+    "author": "batya",
+    "dependencies": {
+        "socket.io-client": "*",
+        "pi-gpio": "*"
+    },
+    "engines": {
+        "node": ">= 0.10.0"
+    }
+}
